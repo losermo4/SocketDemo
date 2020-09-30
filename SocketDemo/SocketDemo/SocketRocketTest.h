@@ -10,14 +10,9 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface SocketRocketManager : NSObject
+@interface SocketRocketTest : NSObject
 
-+ (instancetype)defaultManager;
-
-+ (instancetype)manager;
-
-@property (nonatomic, strong) SRWebSocket *webSocket;
-
+- (void)setupSocket;
 
 @end
 

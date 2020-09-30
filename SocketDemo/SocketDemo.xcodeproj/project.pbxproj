@@ -18,7 +18,7 @@
 		A214B46F252477F10097414A /* SocketDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A214B46E252477F10097414A /* SocketDemoTests.m */; };
 		A214B47A252477F20097414A /* SocketDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A214B479252477F20097414A /* SocketDemoUITests.m */; };
 		A214B4A925247DD90097414A /* GCDWebServerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A214B4A825247DD90097414A /* GCDWebServerManager.m */; };
-		A214B4AF252482CA0097414A /* SocketRocketManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A214B4AE252482CA0097414A /* SocketRocketManager.m */; };
+		A214B4AF252482CA0097414A /* SocketRocketTest.m in Sources */ = {isa = PBXBuildFile; fileRef = A214B4AE252482CA0097414A /* SocketRocketTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,8 +61,8 @@
 		A214B47B252477F20097414A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A214B4A725247DD90097414A /* GCDWebServerManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GCDWebServerManager.h; sourceTree = "<group>"; };
 		A214B4A825247DD90097414A /* GCDWebServerManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GCDWebServerManager.m; sourceTree = "<group>"; };
-		A214B4AD252482CA0097414A /* SocketRocketManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SocketRocketManager.h; sourceTree = "<group>"; };
-		A214B4AE252482CA0097414A /* SocketRocketManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SocketRocketManager.m; sourceTree = "<group>"; };
+		A214B4AD252482CA0097414A /* SocketRocketTest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SocketRocketTest.h; sourceTree = "<group>"; };
+		A214B4AE252482CA0097414A /* SocketRocketTest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SocketRocketTest.m; sourceTree = "<group>"; };
 		F8A9862FB3C8A95A4F88433B /* Pods-SocketDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SocketDemo.release.xcconfig"; path = "Target Support Files/Pods-SocketDemo/Pods-SocketDemo.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -138,8 +138,8 @@
 				A214B453252477EF0097414A /* AppDelegate.m */,
 				A214B4A725247DD90097414A /* GCDWebServerManager.h */,
 				A214B4A825247DD90097414A /* GCDWebServerManager.m */,
-				A214B4AD252482CA0097414A /* SocketRocketManager.h */,
-				A214B4AE252482CA0097414A /* SocketRocketManager.m */,
+				A214B4AD252482CA0097414A /* SocketRocketTest.h */,
+				A214B4AE252482CA0097414A /* SocketRocketTest.m */,
 				A214B455252477EF0097414A /* SceneDelegate.h */,
 				A214B456252477EF0097414A /* SceneDelegate.m */,
 				A214B458252477EF0097414A /* ViewController.h */,
@@ -346,7 +346,7 @@
 			files = (
 				A214B4A925247DD90097414A /* GCDWebServerManager.m in Sources */,
 				A214B45A252477EF0097414A /* ViewController.m in Sources */,
-				A214B4AF252482CA0097414A /* SocketRocketManager.m in Sources */,
+				A214B4AF252482CA0097414A /* SocketRocketTest.m in Sources */,
 				A214B454252477EF0097414A /* AppDelegate.m in Sources */,
 				A214B465252477F10097414A /* main.m in Sources */,
 				A214B457252477EF0097414A /* SceneDelegate.m in Sources */,
